@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin - Users</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+<h1>Admin - User Management</h1>
+<p>Only ADMIN users can see this page.</p>
+<table border="1">
+    <tr><th>Username</th><th>Role</th></tr>
+    <tr><td>admin</td><td>ADMIN</td></tr>
+    <tr><td>user</td><td>USER</td></tr>
+</table>
+<p><a th:href="@{/dashboard}">Back to Dashboard</a></p>
+</body>
+</html>
