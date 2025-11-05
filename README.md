@@ -29,7 +29,6 @@ Demo project demonstrating Spring MVC Interceptors for:
 See code comments for detailed file structure.
 
 ## Technologies
-- Spring Boot 2.7.18
 - Spring MVC
 - Thymeleaf
 - Maven"# interceptor-demo" 
