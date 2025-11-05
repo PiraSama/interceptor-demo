@@ -4,9 +4,9 @@ Demo project demonstrating Spring MVC Interceptors for:
 1. Request processing time logging
 2. Authentication and authorization checking
 
-![Demo giao diện](images/ide1.png)
-![Demo login](images/ide2.png)
-![Demo login2](images/ide3.png)
+![Demo giao diện](src/main/resources/static/images/ide1.png)
+![Demo login](src/main/resources/static/images/ide2.png)
+![Demo login2](src/main/resources/static/images/ide3.png)
 
 
 ## Features
